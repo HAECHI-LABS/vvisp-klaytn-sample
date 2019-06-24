@@ -7,7 +7,7 @@
   },
   "contracts": {
     "MyERC20": {
-      "path": "./contract/MyERC20.sol",
+      "path": "./contracts/MyERC20.sol",
       "name": "MyERC20",
       "constructorArguments": [
         "${variables.NAME}",
