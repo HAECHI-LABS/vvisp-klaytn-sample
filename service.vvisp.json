@@ -1,0 +1,10 @@
+{
+  "serviceName": "MyERC20",
+  "contracts": {
+    "MyERC20": {
+      "path": "./contract/MyERC20.sol"
+    }
+  }
+}
+
+
